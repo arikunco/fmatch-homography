@@ -1,5 +1,5 @@
 ## About Feature Matching and Homography
-This code is one of assignment from Prof Widodo Budiharto (Machine Vision Class) to create an object detection and feature matching using FLANN. This code is adaptation of tutorial publshed in http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html, accessed on October 27, 2015. Somehow the code written in tutorial is not running well on my environment (I guess due to different version of Python). 
+This code is one of assignment from Prof Widodo Budiharto (Machine Vision Class - Bina Nusantara University Jakarta, Indonesia) to create an object detection and feature matching using FLANN. This code is adaptation of tutorial publshed in http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html, accessed on October 27, 2015. Somehow the code written in tutorial is not running well on my environment, most possibly due to different version of Python. 
 
 ## Requirements 
 1. Python (tested in 2.7.6). 
